@@ -1,0 +1,16 @@
+{
+  "name": "codespace-demo",
+  "version": "1.0.0",
+  "description": "codespace demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunred12/codespace-demo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
